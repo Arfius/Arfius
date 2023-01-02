@@ -6,10 +6,10 @@ Bio:
 - Husband and Giovanni's Dad
 
 Social connections:
--  [Twitter](twitter.com/alfarruggia)
+-  [Twitter](https://www.twitter.com/alfarruggia)
 -  [Linkedin](https://www.linkedin.com/in/alfarruggia)
 
 Links:
-- Startup co-founder 👉 [SementusaTech](wwww.sementusa.com)
+- Startup co-founder 👉 [SementusaTech](http://wwww.sementusa.com)
 - Research Works 👉  [here](https://scholar.google.com/citations?user=izlZ7qAAAAAJ&hl)
-- Sometimes ... I post medium stories 👉 [here](alfarruggia.medium.com)
+- Sometimes ... I post medium stories 👉 [here](https://alfarruggia.medium.com)
