@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Arfius/Arfius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bio:
+- Software Engineer 🧑‍💻 / PhD 🚀/ 🇮🇹  lost in London📍
+- Currently @ King's College London
+- Husband and Giovanni's Dad
 
-Here are some ideas to get you started:
+Social connections:
+-  [Twitter](twitter.com/alfarruggia)
+-  [Linkedin](https://www.linkedin.com/in/alfarruggia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Links:
+- Startup co-founder 👉 [SementusaTech](wwww.sementusa.com)
+- Research Works 👉  [here](https://scholar.google.com/citations?user=izlZ7qAAAAAJ&hl)
+- Sometimes ... I post medium stories 👉 [here](alfarruggia.medium.com)
