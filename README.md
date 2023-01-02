@@ -10,6 +10,6 @@ Social connections:
 -  [Linkedin](https://www.linkedin.com/in/alfarruggia)
 
 Links:
-- Startup co-founder 👉 [SementusaTech](http://wwww.sementusa.com)
+- Startup co-founder 👉 [SementusaTech](http://www.sementusa.com)
 - Research Works 👉  [here](https://scholar.google.com/citations?user=izlZ7qAAAAAJ&hl)
 - Sometimes ... I post medium stories 👉 [here](https://alfarruggia.medium.com)
